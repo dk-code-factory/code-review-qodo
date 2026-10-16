@@ -1,0 +1,9 @@
+{
+  "organization": "dk-code-factory",
+  "sources": [
+    {
+      "source": "local-skills/code-review-qodo",
+      "commit": "57382c9a8cf574e221891b6777d4ea8892956266"
+    }
+  ]
+}

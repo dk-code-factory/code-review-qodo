@@ -1,0 +1,11 @@
+{
+  "name": "code-review-qodo",
+  "version": "1.0.0",
+  "description": "Recoverable asynchronous Qodo CLI review.",
+  "author": {
+    "name": "Dmitry Kropachev"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/dk-code-factory/code-review-qodo",
+  "skills": "./codex/skills/"
+}

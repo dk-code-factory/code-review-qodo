@@ -1,0 +1,14 @@
+{
+  "name": "code-review-qodo",
+  "owner": {
+    "name": "dk-code-factory"
+  },
+  "plugins": [
+    {
+      "name": "code-review-qodo",
+      "source": "./",
+      "description": "code-review-qodo",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "code-review-qodo",
+  "interface": {
+    "displayName": "code-review-qodo"
+  },
+  "plugins": [
+    {
+      "name": "code-review-qodo",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
